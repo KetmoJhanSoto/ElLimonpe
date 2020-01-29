@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256287196235",
+    "firebase_url": "https://ellimoncitoperuano.firebaseio.com",
+    "project_id": "ellimoncitoperuano",
+    "storage_bucket": "ellimoncitoperuano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256287196235:android:a389b196ba239d832379ce",
+        "android_client_info": {
+          "package_name": "com.example.ellimoncito_peruano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256287196235-2lneb8cud5i401g8v4sh7h9m5qeqfipe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ellimoncito_peruano",
+            "certificate_hash": "ba18b80d3f401384652401c11097388c5e08fe38"
+          }
+        },
+        {
+          "client_id": "256287196235-052u0e6skbiiejgohm4cdpt8r8p0a7u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwFZk7zhao5RjEVnph_Crywlc-jPUN70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256287196235-052u0e6skbiiejgohm4cdpt8r8p0a7u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
